@@ -1,13 +1,3 @@
-pip install re
-pip install os
-pip install time
-pip install webbrowser
-pip install random
-pip install pyttsx3
-pip install SpeechRecognition
-pip install selenium
-pip install pyautogui
-
 Прощание:
 
 "пока", "пака", "бб", "удачи", "удачки" 😊👋
